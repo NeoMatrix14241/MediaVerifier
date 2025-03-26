@@ -22,3 +22,8 @@ A PowerShell script that verifies the integrity of image files and PDFs in paral
 - PowerShell 7 or later
 - ImageMagick 7
 - PDFtk
+
+## How to run
+
+- Right-click > Properties > Check **Unblock**
+- Run the **Run-TntegrityCheck.bat**
