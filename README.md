@@ -22,4 +22,4 @@ A PowerShell script that verifies the integrity of image files and PDFs in paral
 ## How to run
 
 - Right-click > Properties > Check **Unblock**
-- Run the **Run-TntegrityCheck.bat**
+- Run the **Run-IntegrityCheck.bat**
