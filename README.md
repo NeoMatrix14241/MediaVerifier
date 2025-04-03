@@ -17,7 +17,7 @@ A PowerShell script that verifies the integrity of image files and PDFs in paral
 
 - PowerShell 7 or later
 - ImageMagick 7
-- PDFtk
+- PDFtk Server
 
 ## How to run
 
